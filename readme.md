@@ -1,15 +1,23 @@
-17.05.2022
+# MERN Todo App
 
-https://www.freecodecamp.org/news/how-to-build-a-todo-app-with-react-typescript-nodejs-and-mongodb/
+> Author: Razvan Bielz  
+> Date: 17.05.2022
 
-API
+Full-stack TypeScript App with React, Nodejs and MongoDB
+Created following a freeCodeCap [tutorial](https://www.freecodecamp.org/news/how-to-build-a-todo-app-with-react-typescript-nodejs-and-mongodb/).
+
+## API
 API with NodeJS, Express, MongoDB and TypeScript
 
-    "cors": "^2.8.5",
-    "express": "^4.18.1",
-    "mongoose": "^6.3.3",
-    "typescript": "^4.6.4"
+## Client
+ReactApp using TypeScript and Axios
 
+## Usage
+- /api/
+  - `yarn build`
+  - `yarn start`
+- /client/
+  - `yarn start`
 
-Usage:
-yarn build -> yarn start
+## Possible improvements
+- implement drag and drop functionality to change TodoItem order
