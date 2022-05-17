@@ -9,3 +9,7 @@ API with NodeJS, Express, MongoDB and TypeScript
     "express": "^4.18.1",
     "mongoose": "^6.3.3",
     "typescript": "^4.6.4"
+
+
+Usage:
+yarn build -> yarn start
