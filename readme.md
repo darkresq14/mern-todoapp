@@ -21,3 +21,4 @@ ReactApp using TypeScript and Axios
 
 ## Possible improvements
 - implement drag and drop functionality to change TodoItem order
+- dockerize the project
