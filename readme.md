@@ -4,10 +4,10 @@
 > Date: 17.05.2022
 
 Full-stack TypeScript App with React, Nodejs and MongoDB
-Created following a freeCodeCap [tutorial](https://www.freecodecamp.org/news/how-to-build-a-todo-app-with-react-typescript-nodejs-and-mongodb/).
+Created following a freeCodeCamp [tutorial](https://www.freecodecamp.org/news/how-to-build-a-todo-app-with-react-typescript-nodejs-and-mongodb/).
 
 ## API
-API with NodeJS, Express, MongoDB and TypeScript
+API with NodeJS, Express, MongoDB Atlas and TypeScript
 
 ## Client
 ReactApp using TypeScript and Axios
