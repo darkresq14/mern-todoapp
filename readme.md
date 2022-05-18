@@ -22,3 +22,7 @@ ReactApp using TypeScript and Axios
 ## Possible improvements
 - implement drag and drop functionality to change TodoItem order
 - dockerize the project
+
+## Things learned
+- Push to heroku only the api part of the repository:  
+  `git subtree push --prefix <subfolder> heroku master`  
