@@ -8,9 +8,11 @@ Created following a freeCodeCamp [tutorial](https://www.freecodecamp.org/news/ho
 
 ## API
 API with NodeJS, Express, MongoDB Atlas and TypeScript
+Hosted on Heroku: https://darky-mern-todoapp.herokuapp.com:33147/
 
 ## Client
 ReactApp using TypeScript and Axios
+Hosted on Netlify: https://stellular-bavarois-230375.netlify.app/
 
 ## Usage
 - /api/
