@@ -2,7 +2,8 @@ import axios, { AxiosResponse } from "axios";
 import { getErrorMessage } from "./utils";
 
 const devUrl: string = "http://localhost:4000";
-const prodUrl: string = "https://darky-mern-todoapp.herokuapp.com:33147";
+const prodUrl: string = "https://darky-mern-todoapp.herokuapp.com";
+// const prodPort: string = ":33147";
 
 const baseUrl = process.env.NODE_ENV !== "production" ? devUrl : prodUrl;
 

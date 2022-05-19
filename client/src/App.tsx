@@ -20,7 +20,7 @@ const App: React.FC = () => {
     e.preventDefault();
     addTodo(formData)
       .then(({ status, data }) => {
-        if (status !== 201) {
+        if (status !== 200) {
           throw new Error("Error! Todo not saved");
         }
         setTodos(data.todos);
