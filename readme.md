@@ -8,7 +8,7 @@ Created following a freeCodeCamp [tutorial](https://www.freecodecamp.org/news/ho
 
 ## API
 API with NodeJS, Express, MongoDB Atlas and TypeScript
-Hosted on Heroku: https://darky-mern-todoapp.herokuapp.com:33147/
+Hosted on Heroku: https://darky-mern-todoapp.herokuapp.com/
 
 ## Client
 ReactApp using TypeScript and Axios
